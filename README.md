@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical Skilss: Python, R, SQL, Statistics, Machine Learning
+
 ### Education
 
 ### Work Experience
